@@ -1,0 +1,1 @@
+{"name":"Local: 44","url":"c:\\Users\\Mohd Ghalib\\Desktop\\sem 4\\CP_Sheet\\1_Implementation\\44.cpp","tests":[{"id":1647187771003,"input":"4\n5\n00100\n8\n00000000\n5\n11111\n3\n110","output":"6\n8\n10\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Mohd Ghalib\\Desktop\\sem 4\\CP_Sheet\\1_Implementation\\44.cpp","group":"local","local":true}
